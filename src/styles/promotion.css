@@ -1,0 +1,13 @@
+.card-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza horizontalmente */
+    justify-content: center; /* Centraliza verticalmente */
+  }
+  
+  .card-image {
+    width: 100px; /* Largura fixa para todas as imagens */
+    height: 100px; /* Altura fixa para todas as imagens */
+    object-fit: cover; /* Mantém a proporção da imagem e a ajusta ao tamanho */
+  }

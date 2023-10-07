@@ -1,0 +1,26 @@
+
+/* Estilos para a barra de aplicativo */
+.MuiAppBar-root {
+    transition: width 0.2s ease, margin 0.2s ease;
+  }
+  
+  /* Estilos para o menu lateral */
+  .MuiDrawer-root {
+    width: 240px;
+    transition: width 0.2s ease;
+  }
+  
+  .MuiDrawer-paper {
+    width: 240px;
+  }
+  
+  /* Estilos para o botão de logout */
+  .login-link {
+    background-color: pink;
+  }
+  
+  /* Estilos para o botão "Criar Produto" */
+  .create-product-link {
+    background-color: pink;
+  }
+  

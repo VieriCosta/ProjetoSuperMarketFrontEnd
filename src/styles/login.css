@@ -1,0 +1,37 @@
+/* Adicione as regras de estilo aqui */
+.container {
+  margin-top: 10px;
+}
+
+.avatar {
+  background-color: #009688; /* Cor de destaque do tema do Home */
+}
+
+.form {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.textField {
+  width: 100%;
+  margin: 8px 0;
+}
+
+.button {
+  background-color: #009688; /* Cor de destaque do tema do Home */
+  margin-top: 16px;
+}
+
+.link {
+  margin-top: 16px;
+  text-align: center;
+  color: #009688; /* Cor de destaque do tema do Home */
+  text-decoration: none; /* Remover sublinhado de links */
+}
+
+.link:hover {
+  text-decoration: underline; /* Adicionar sublinhado ao passar o mouse */
+}

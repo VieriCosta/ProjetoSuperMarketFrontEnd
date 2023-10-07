@@ -1,0 +1,30 @@
+/* signup.css */
+.signup-root {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.signup-avatar {
+  margin: 8px;
+}
+
+.signup-title {
+  margin-top: 8px;
+}
+
+.signup-form {
+  margin-top: 3px;
+}
+
+.signup-link {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 16px;
+}
+
+.signup-button {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
